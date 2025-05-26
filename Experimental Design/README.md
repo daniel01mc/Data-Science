@@ -1,4 +1,9 @@
 # **Paper Helicopter Experiment (Last Experiment)** 
+
+Previous Practice and Experiments:
+- One at a time.
+- Factorial.
+- Response Surface Design.
 ---
 #### **Daniel Cisneros - Experimental Design** 
 ---
