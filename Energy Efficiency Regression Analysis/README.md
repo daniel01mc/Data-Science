@@ -14,9 +14,12 @@ The analysis compares **Linear Regression models** with **Machine Learning model
 
 Click below to watch the presentation on YouTube:
 
-[![Watch the video][(https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)](https://youtu.be/HnM6KpukYFM?si=8OKVUTTmwKeumo68)
+[![Watch the presentation on YouTube](https://img.youtube.com/vi/HnM6KpukYFM/0.jpg)](https://youtu.be/HnM6KpukYFM)
 
-\
+**Watch here:** https://youtu.be/HnM6KpukYFM
+
+--- 
+
 ## 📘 Project Overview
 
 Early building design has the largest influence on operational energy use.  
