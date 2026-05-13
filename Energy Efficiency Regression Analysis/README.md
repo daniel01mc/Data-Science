@@ -14,9 +14,9 @@ The analysis compares **Linear Regression models** with **Machine Learning model
 
 Click below to watch the presentation on YouTube:
 
-[![Watch the presentation on YouTube](https://img.youtube.com/vi/HnM6KpukYFM/0.jpg)](https://youtu.be/HnM6KpukYFM)
+[![Watch the presentation on YouTube](https://img.youtube.com/vi/6AwPaPJzARk/0.jpg)](https://www.youtube.com/watch?v=6AwPaPJzARk&t=2s)
 
-**Watch here:** https://youtu.be/HnM6KpukYFM
+**Watch here:** https://www.youtube.com/watch?v=6AwPaPJzARk&t=2s
 
 --- 
 
