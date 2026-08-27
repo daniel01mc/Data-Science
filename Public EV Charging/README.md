@@ -15,9 +15,9 @@ The analysis uses spatial data, demographic variables, maps, Moran’s I, and co
 
 Add your presentation video link here:
 
-[![Watch the presentation on YouTube](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/YOUTUBE_VIDEO_ID)
+[![Watch the presentation on YouTube](https://img.youtube.com/vi/6AwPaPJzARk/0.jpg)](https://www.youtube.com/watch?v=6AwPaPJzARk&t=2s)
 
-**Watch here:** https://youtu.be/YOUTUBE_VIDEO_ID
+**Watch here:** https://www.youtube.com/watch?v=6AwPaPJzARk&t=2s
 
 ---
 
